@@ -20,8 +20,8 @@ public class testDAO {
 		listR = dao.getAllRetailers();
 		System.out.println(listR.size());
 		
-		listP = dao.getAllProducts();
-		System.out.println(listP.size());
+//		listP = dao.getAllProducts();
+//		System.out.println(listP.size());
 		
 		listS = dao.getAllSales();
 		System.out.println(listS.size());
