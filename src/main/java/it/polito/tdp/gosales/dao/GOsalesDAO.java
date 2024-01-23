@@ -15,10 +15,10 @@ import it.polito.tdp.gosales.model.Products;
 import it.polito.tdp.gosales.model.Retailers;
 
 public class GOsalesDAO {
-	
-	
 	/**
 	 * Metodo per leggere la lista di tutti i rivenditori dal database
+	 * 
+	 * 
 	 * @return
 	 */
 
